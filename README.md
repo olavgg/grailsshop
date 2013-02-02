@@ -1,4 +1,4 @@
-grailshop
+grailsshop
 =========
 
 Simple Grails Webshop implementation
