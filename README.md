@@ -1,4 +1,4 @@
 grailsshop
 =========
 
-Simple Grails Webshop implementation
+Simple Grails Webshop / E-commerce implementation.
